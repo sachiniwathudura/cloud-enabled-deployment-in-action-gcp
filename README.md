@@ -5,7 +5,7 @@
 This repository contains my practical assignment submission for [Enterprise Cloud Architecture]. It demonstrates how to set up a Spring Boot application connected to a MySQL database hosted on Google Cloud SQL.
 
 ---
-# (## 📹 Demo Video)
+# (📹 Demo Video)
 
  # (Watch the demo here: [Google Drive Link]&#40;https://drive.google.com/file/d/181pnTzhIQWQZDijB6yhHQBguNYJoEG4G/view?usp=sharing&#41;)
 
