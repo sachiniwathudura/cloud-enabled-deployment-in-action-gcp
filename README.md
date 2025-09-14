@@ -94,7 +94,7 @@ Run your Spring Boot app. It will connect to your Cloud SQL database.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/sasobapriyanjana11/cloud-deployment-assignment.git
+https://github.com/sachiniwathudura/cloud-enabled-deployment-in-action-gcp.git
 ```
 
 2. Update `application-gcp.properties` with your database credentials if needed.
